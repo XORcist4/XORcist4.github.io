@@ -1,13 +1,11 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Xorcist4
+title: XORcist4 Laboratory
+description: I will be adding blogs about write-ups and boxes ive done along with things i am currently working on.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - write-ups
+  - trainings
+  - gaming
 show_hero: true
 menu:
   - title: Home
@@ -18,7 +16,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: imoonwalker@igothacked.wtf
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
