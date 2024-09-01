@@ -1,14 +1,12 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: XORcist4
+title: Welcome to Xorcists labratory! 
+description: I will be adding blogs about write-ups and boxes ive done along with things i am currently working on.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - write-ups
+  - trainings
+  - gaming
 show_hero: true
 menu:
   - title: Home
@@ -19,22 +17,19 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: imoonwalker@igothacked.wtf
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: N/A
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: N/A
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: XORcist4
+twitter_username: null_xorcist
+
 
 
 # Posts Settings
